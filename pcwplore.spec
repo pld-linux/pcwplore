@@ -8,6 +8,7 @@ Group:		Applications/File
 Source0:	http://www.seasip.demon.co.uk/Unix/PcwPlore/%{name}_src.zip
 # Source0-md5:	886c04a3331955efe91dfcddf40391ea
 URL:		http://www.seasip.demon.co.uk/Unix/PcwPlore/
+BuildRequires:	unzip
 BuildRequires:	wxGTK2-devel >= 2.4
 Requires:	cpmtools
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
