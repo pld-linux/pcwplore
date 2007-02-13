@@ -1,5 +1,5 @@
 Summary:	PCW Explorer - reading PCW disks, converting images into PNG or JPG
-Summary(pl.UTF-8):   PCW Explorer - odczyt dyskietek PCW, konwersja obrazków do PNG lub JPG
+Summary(pl.UTF-8):	PCW Explorer - odczyt dyskietek PCW, konwersja obrazków do PNG lub JPG
 Name:		pcwplore
 Version:	0.02
 Release:	1
